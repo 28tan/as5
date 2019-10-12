@@ -11,6 +11,6 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
- <plugin name="npm i customer-header-inappbrowser"/>
+ <plugin name="cordova-plugin-inappbrowser"/>
 </widget>
 
