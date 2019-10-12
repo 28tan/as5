@@ -11,6 +11,6 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-<plugin name="cordova-plugin-inappbrowser" spec="~1.0.1" />
+<plugin name="cordova-plugin-browser" spec="~1.0.1" />
 </widget>
 
